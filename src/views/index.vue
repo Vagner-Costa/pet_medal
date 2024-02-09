@@ -1,10 +1,11 @@
 <template>
     <div class="text-[120px]">
-        testeeeeeeeeeeeeepxeee
+        <QRCode></QRCode>
     </div>
 </template>
 
 <script setup>
+import QRCode from '../components/logotipo.vue'
 
 </script>
 

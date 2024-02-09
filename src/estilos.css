@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Flavors&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base{
+    *{
+        margin:0px;
+        padding:0px;
+        overflow:hidden;
+        box-sizing: border-box;
+    }
+}

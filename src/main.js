@@ -1,3 +1,4 @@
+
 import { createApp } from 'vue'
 import './estilos.css'
 import router from './router/index.js'
